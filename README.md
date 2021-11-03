@@ -1,3 +1,3 @@
 # computergraphics
-2D HOUSE USING OPENGL C++
+# 2D HOUSE USING OPENGL C++
 
