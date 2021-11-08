@@ -120,3 +120,5 @@ int main(int argc, char** argv)
     glutDisplayFunc(display);
     glutMainLoop();
 }
+
+//glew and glfw
